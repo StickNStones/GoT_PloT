@@ -1,5 +1,6 @@
 This project was inspired by both https://www.reddit.com/r/dataisbeautiful/comments/94kafp/reddit_is_changing_its_mind_about_elon_musk_oc/e3llqsk/
-and https://www.reddit.com/r/dataisbeautiful/comments/bmgkfu/oc_the_downfall_of_game_of_thrones_ratings/
+and 
+https://www.reddit.com/r/dataisbeautiful/comments/bmgkfu/oc_the_downfall_of_game_of_thrones_ratings/
 
 Paper on VADER
 http://comp.social.gatech.edu/papers/icwsm14.vader.hutto.pdf
