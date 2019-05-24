@@ -5,6 +5,8 @@ https://www.reddit.com/r/dataisbeautiful/comments/bmgkfu/oc_the_downfall_of_game
 Paper on VADER
 http://comp.social.gatech.edu/papers/icwsm14.vader.hutto.pdf
 
+All Reddit Discussion Threads for Game of Thrones https://www.reddit.com/r/gameofthrones/wiki/episode_discussion
+
 The Pushshift API was used to get comments out of each of the 73 discussion threads.
 
 Matplotlib was used to create the visualization.
