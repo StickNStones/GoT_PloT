@@ -15,7 +15,8 @@ Interestingly the sentiment of Season 5 Episode 6, "Unbowed, Unbent, Unbroken" w
 before season 8, and is also the episode with the lowest sentiment, approaching -0.10. The IMBD score drop is represented in the sentiment.
 
 In contrast, Season 3, episode 9, "The Rains of Castamere" has a 9.9/10 rating on IMBD, while the sentiment score drops. (But not under -0.05)
-This is likely due to the episode's content being negative and VADER picking it up. 
+This is likely due to the episode's content being negative and VADER picking it up. Which seems quite impressive that the episode 
+can have almost a negative sentiment, and simultaneously a 9.9 on IMBD
 
 The first episode under -.05 is Season 5 Episode 8, "The Mountain and the Viper". This result is most likely due to similar nature of
 the last, as the episode has a 9.7 IMBD rating. 
