@@ -2,7 +2,7 @@ This project was inspired by both https://www.reddit.com/r/dataisbeautiful/comme
 and 
 https://www.reddit.com/r/dataisbeautiful/comments/bmgkfu/oc_the_downfall_of_game_of_thrones_ratings/
 
-Plot code is in the Jupyter Notebook GameOfThronesPlot.ipynb
+Plot code is in the Jupyter `Notebook GameOfThronesPlot.ipynb`.
 
 Paper on VADER
 http://comp.social.gatech.edu/papers/icwsm14.vader.hutto.pdf
